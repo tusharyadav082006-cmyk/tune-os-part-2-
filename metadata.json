@@ -1,0 +1,6 @@
+{
+  "name": "TuneOS",
+  "description": "OS-simulated and database-engineered hybrid music streaming and recommendation platform featuring Bollywood and Hollywood catalogs, real audio playback, personalized recommendations, and OS CPU scheduling simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
